@@ -1,4 +1,5 @@
-# Adeola Portefolio
-Hello, Vous êtes bien sur la page github de Adeola Maryam  Arike
+<h1> Maryam Arike Adeshokan – Portfolio Data Analyst</h1>
+<p>Bienvenue sur ma page GitHub dédiée à mes projets en Data Analysis.</p>
 
-Découvrez mes projets!
+<p>🎯 Je transforme les données en décisions stratégiques.  
+📊 Découvrez mes projets ci-dessous.</p
