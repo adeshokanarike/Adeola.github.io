@@ -1,5 +1,11 @@
-<h1> Maryam Arike Adeshokan – Portfolio Data Analyst</h1>
-<p>Bienvenue sur ma page GitHub dédiée à mes projets en Data Analysis.</p>
+# 🌐 Adeola Maryam Arike – Portfolio
 
-<p>🎯 Je transforme les données en décisions stratégiques.  
-📊 Découvrez mes projets ci-dessous.</p
+Bienvenue sur mon dépôt GitHub Pages.
+
+➡️ Accédez à mon portfolio en ligne : [https://adeshokanarike.github.io](https://adeshokanarike.github.io)
+
+Ce portfolio présente mes projets de data analyst, notamment :
+- Dashboards Looker Studio
+- Analyses Python
+- Visualisations interactives
+
